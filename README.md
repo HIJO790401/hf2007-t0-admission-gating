@@ -21,11 +21,11 @@ This repository preserves the exact public evidence package that corresponds to 
 - [Official research record — English](https://silentschool.studio/en/research/hf2007-t0-path-legitimacy)
 - [Official research record — Traditional Chinese](https://silentschool.studio/zh/research/hf2007-t0-path-legitimacy)
 - [ICAISG 2026 formal acceptance evidence](https://silentschool.studio/media/icaisg/HF2007-ICAISG-2026-Acceptance-Notification.pdf)
-- [Final camera-ready paper](https://silentschool.studio/media/research/hf2007/HF2007_CameraReady_MinorRevision_CLEAN.pdf)
-- [Reviewed experiment pack](https://silentschool.studio/media/research/hf2007/HF2007_Major_Revision_Experiment_Pack.zip)
-- [Complete public evidence release](https://silentschool.studio/media/research/hf2007/HF2007_Public_Evidence_Release_v1.0.zip)
+- [Final camera-ready paper](paper/HF2007_CameraReady_MinorRevision_CLEAN.pdf)
+- [Reviewed experiment pack](experiments/HF2007_Major_Revision_Experiment_Pack.zip)
+- [Complete public evidence release](HF2007_Public_Evidence_Release_v1.0.zip)
 
-The official-site record provides the public narrative and acceptance evidence. This repository provides the immutable paper, experiment package, provenance, replay instructions and version record for the same checkpoint.
+The official-site record provides the public narrative and acceptance evidence. This repository is the public source for the immutable paper, experiment package, complete release bundle, provenance, replay instructions and version record for the same checkpoint.
 
 ## What this checkpoint establishes
 

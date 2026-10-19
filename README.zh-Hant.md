@@ -21,11 +21,11 @@
 - [繁體中文正式研究紀錄](https://silentschool.studio/zh/research/hf2007-t0-path-legitimacy)
 - [英文正式研究紀錄](https://silentschool.studio/en/research/hf2007-t0-path-legitimacy)
 - [ICAISG 2026 正式錄取證據](https://silentschool.studio/media/icaisg/HF2007-ICAISG-2026-Acceptance-Notification.pdf)
-- [最終 Camera-ready 論文](https://silentschool.studio/media/research/hf2007/HF2007_CameraReady_MinorRevision_CLEAN.pdf)
-- [審查採用的實驗包](https://silentschool.studio/media/research/hf2007/HF2007_Major_Revision_Experiment_Pack.zip)
-- [完整公開證據封裝](https://silentschool.studio/media/research/hf2007/HF2007_Public_Evidence_Release_v1.0.zip)
+- [最終 Camera-ready 論文](paper/HF2007_CameraReady_MinorRevision_CLEAN.pdf)
+- [審查採用的實驗包](experiments/HF2007_Major_Revision_Experiment_Pack.zip)
+- [完整公開證據封裝](HF2007_Public_Evidence_Release_v1.0.zip)
 
-官網保存本研究的正式公開敘事與錄取證據；這個 Repository 保存同一節點的原始論文、實驗包、來源證明、重現方式與版本紀錄。兩邊指向同一組固定證據，不互相取代。
+官網保存本研究的正式公開敘事與錄取證據；這個 Repository 是同一節點之原始論文、實驗包、完整證據封裝、來源證明、重現方式與版本紀錄的公開來源。兩者分工清楚，並共同閉合這次公開驗證紀錄。
 
 ## 這個節點已經成立的內容
 
