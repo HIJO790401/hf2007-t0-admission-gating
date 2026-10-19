@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this public verification package, cite the HF2007 manuscript and identify this repository version."
+title: "HF2007 T0 Admission Gating — Public Verification Evidence Package"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-19
+authors:
+  - family-names: Hsu
+    given-names: Wen-Yao
+    alias: "許文耀／沈耀888π"
+repository-code: "https://github.com/HIJO790401/hf2007-t0-admission-gating"
+url: "https://silentschool.studio/en/research/hf2007-t0-path-legitimacy"
+keywords:
+  - T0 admission gating
+  - path legitimacy
+  - AI security
+  - AI governance
+  - prompt injection
+  - responsibility
+abstract: >-
+  An author-released, byte-verified record of the HF2007 public verification
+  checkpoint: the final camera-ready manuscript, the reviewed 51-transition
+  reproducibility package, provenance, checksums and exact version boundaries.
+preferred-citation:
+  type: article
+  title: "From Sample Safety to Path Legitimacy: T0 Admission Gating for Unauthorized Reasoning Transitions in LLM-Integrated Systems"
+  authors:
+    - family-names: Hsu
+      given-names: Wen-Yao
+  year: 2026
